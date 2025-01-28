@@ -28,6 +28,7 @@ user-management-dashboard/
 │   ├── index.css
 ├── package.json
 └── node_modules/
+
 Setup and Installation
 Clone the repository:
 git clone https://github.com/your-username/user-management-dashboard.git
